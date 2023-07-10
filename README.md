@@ -56,4 +56,5 @@
 
 
 - **End Notes**
-  Chatbots are the top application of Natural Language processing and today it is simple to create and integrate with various social medial handle and websites.
+  We can make this self learning Chatbot more intelligent by training it with all sorts of data.<br>
+  We can use request library inside python and fetch  data through URLs and make our Chatbot intelligent and self learning.
