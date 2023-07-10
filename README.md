@@ -3,13 +3,13 @@
 - A **self-learning chatbot**, also known as an AI or intelligent chatbot, is a type that uses machine learning algorithms to enhance its performance over time continuously. This indicates that the chatbot can acquire knowledge from user interactions and modify its responses accordingly.
 - Why are chatbots important? <br>
   
-  Cost and Time Effective ~ Humans cannot be active on-site 24/7 but chatbots can and the replying power of chatbots is much fast than humans. <br>
-  Cheap Development cost ~ with the advancement in technology many tools are developed that help easy development and integration of chatbots with little investment. <br>
-  Human Resource ~ Today Chatbots can also talk with text o speech technology so it gives the feel as a human is talking on another side. <br>
-  Business Branding ~ Businesses are changing with technology and chatbot is one out of them. Chatbot also helps in advertising, branding of organization product and services      and give daily updates to users.
+  Cost and Time Effective - Humans cannot be active 24/7 but chatbots can and the replying power of chatbots is much fast than humans. <br>
+  Cheap Development cost - with the advancement in technology many tools are developed that help easy development and integration of chatbots with little investment. <br>
+  Human Resource - Today Chatbots can also talk with text o speech technology so it gives the feel as a human is talking on another side. <br>
+  Business Branding - Businesses are changing with technology and chatbot is one out of them. Chatbot also helps in advertising, branding of organization product and services      and give daily updates to users.
 
 ## Natural Language Tool Kit (NLTK) 
-- NLTK is a leading platform for building Python programs to work with human language data. It provides easy to use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.
+- NLTK (Natural Language Toolkit) is the go to API for NLP (Natural Language Processing) with Python. It is a really powerful tool to preprocess text data for further analysis like with ML models for instance. It helps convert text into numbers, which the model can then easily work with.
 ## Steps invovled in building model
  **1. Importing libraries** <br>
  Necessary libraries are imported for model like numpy, nltk, string, random
@@ -42,7 +42,9 @@
 **6. Response Generation by the Bot using TfidfVectorizer and cosine similarity** <br>
 
   **TfidfVectorizer** : It counts the number of times a word appears in a document (using a bag-of-words approach), it also takes into account not only how many times a word        appears in a document and also how important that word is to the whole corpus. <br>
+  
   **Bag Of Words** : It turns arbitrary text into fixed-length vectors by counting how many times each word appears.
+  
   **Cosine similarity** : It measures the similarity between two vectors of an inner product space. It determines whether two vectors are pointing in the same direction by         measuring the cosine of the angle between them. In text analysis, it is used to determine document similarity.
   
  **7. Defining the Chat Flow**
