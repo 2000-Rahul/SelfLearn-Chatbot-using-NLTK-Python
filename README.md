@@ -54,7 +54,12 @@
 
   ![image](https://github.com/2000-Rahul/SelfLearn-Chatbot-using-NLTK-Python/assets/136818857/2caf8cd9-4a02-4623-8d10-1c83e0835167)
 
+## data.txt file
+- To train chatbot text is fetch through this URL <br>
+  https://simple.wikipedia.org/wiki/Artificial_intelligence
 
-- **End Notes**
+
+## End Notes
   We can make this self learning Chatbot more intelligent by training it with all sorts of data.<br>
-  We can use request library inside python and fetch  data through URLs and make our Chatbot intelligent and self learning.
+  We can use request library inside python and fetch  data through URLs and make our Chatbot intelligent and self learning. <br>
+  Larger database and servers are required for storing information to make our chatbot more intelligent and make him adapt accoeding to user.
