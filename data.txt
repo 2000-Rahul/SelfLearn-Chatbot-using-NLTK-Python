@@ -1,0 +1,170 @@
+
+Main menu
+
+Wikipedia The Free Encyclopedia
+
+    Create account
+    Log in
+
+Personal tools
+
+Contents
+
+    Beginning
+    How does AI work?
+    History
+    Related pages
+    References
+
+Artificial intelligence
+
+    Page
+    Talk
+
+    Read
+    Change
+    Change source
+    View history
+
+Tools
+
+From Simple English Wikipedia, the free encyclopedia
+	
+This article needs to be updated. You can help Wikipedia by updating it. (May 2023)
+
+Artificial intelligence (AI) is the ability of a computer program or a machine to think and learn.[1] It is also a field of study which tries to make computers "smart". They work on their own without being encoded with commands. John McCarthy came up with the name, "Artificial Intelligence" in 1955.
+
+In general use, the term "artificial intelligence" means a programme which mimics human cognition. At least some of the things we associate with other minds, such as learning and problem solving can be done by computers, though not in the same way as we do.[2] Andreas Kaplan and Michael Haenlein define AI as a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.[3]
+
+An ideal (perfect) intelligent machine is a flexible agent which perceives its environment and takes actions to maximize its chance of success at some goal or objective.[4] As machines become increasingly capable, mental faculties once thought to require intelligence are removed from the definition. For example, optical character recognition is no longer perceived as an example of "artificial intelligence": it is just a routine technology.
+
+At present we use the term AI for successfully understanding human speech,[2] competing at a high level in strategic game systems (such as Chess and Go), self-driving cars, and interpreting complex data.[5] Some people also consider AI a danger to humanity if it continues to progress at its current pace.[6]
+
+An extreme goal of AI research is to create computer programs that can learn, solve problems, and think logically.[7][8] In practice, however, most applications have picked on problems which computers can do well. Searching databases and doing calculations are things computers do better than people. On the other hand, "perceiving its environment" in any real sense is way beyond present-day computing.
+
+AI involves many different fields like computer science, mathematics, linguistics, psychology, neuroscience, and philosophy. Eventually researchers hope to create a "general artificial intelligence" which can solve many problems instead of focusing on just one. Researchers are also trying to create creative and emotional AI which can possibly empathize or create art. Many approaches and tools have been tried.
+
+Borrowing from the management literature, Kaplan and Haenlein classify artificial intelligence into three different types of AI systems: analytical, human-inspired, and humanized artificial intelligence.[3] Analytical AI has only characteristics consistent with cognitive intelligence generating cognitive representation of the world and using learning based on past experience to inform future decisions. Human-inspired AI has elements from cognitive as well as emotional intelligence, understanding, in addition to cognitive elements, also human emotions considering them in their decision making. Humanized AI shows characteristics of all types of competencies (i.e., cognitive, emotional, and social intelligence), able to be self-conscious and self-aware in interactions with others.[9]
+How does AI work?
+
+AI works by utilizing algorithms and models to process data and perform intelligent tasks. Here's a more detailed explanation of how AI works:
+
+Data collection:
+
+AI systems require a large amount of data to learn and make predictions. Data can be collected from various sources such as databases, sensors, or the internet.
+
+Data preprocessing:
+
+The collected data is cleaned, normalized, and transformed to remove noise, handle missing values, and ensure it is in a suitable format for analysis.
+
+Feature extraction:
+
+Relevant features or characteristics are extracted from the preprocessed data. This step helps in representing the data in a way that is suitable for the AI algorithms.
+
+Algorithm selection:
+
+Different AI algorithms can be chosen depending on the nature of the problem. Standard algorithms include machine learning algorithms like decision trees, random forests, support vector machines, or deep learning algorithms like neural networks.
+
+Model training:
+
+The selected algorithm is trained using the preprocessed data. During training, the algorithm learns patterns and relationships in the data to make predictions or perform specific tasks. The training process involves adjusting the algorithm's internal parameters based on the provided data.
+
+Model evaluation: The trained model is evaluated on a separate dataset, called the validation or test set, to assess its performance. Various metrics are used to measure accuracy, precision, recall, or other relevant performance indicators.
+
+Model optimization:
+
+If the model's performance is not satisfactory, optimization techniques like hyperparameter tuning or regularization can be applied to improve its effectiveness. This step involves fine-tuning the model's parameters to enhance its performance.
+
+Deployment:
+
+Once the model achieves the desired performance, it can be deployed to perform tasks on new, unseen data. The AI system can make predictions, classify objects, generate recommendations, or perform other specific tasks based on its training.
+
+Continuous learning and improvement:
+
+AI systems can be designed to learn from new data and adapt to changing conditions. By continually updating and retraining the models, AI systems can improve their performance over time.
+
+It's important to note that the specific details and techniques involved in AI can vary depending on the subfield, approach, and algorithms being used. AI is a vast field with ongoing research and advancements, and the above steps provide a general framework for understanding how AI systems work.[10][11]
+
+Types of Artificial Intelligence:
+
+Reactive AI:
+
+Reactive AI systems are designed to react to current situations without any memory or ability to learn from past experiences. They excel in specific tasks and are commonly used in areas such as gaming and autonomous vehicles. Reactive AI does not possess the ability to understand context or exhibit memory.
+
+Limited Memory AI:
+
+Limited Memory AI systems have the capability to retain some past information and use it to make decisions. These systems incorporate historical data or observations to enhance their responses and performance. Applications of Limited Memory AI include virtual assistants and recommendation systems.
+
+Theory of Mind AI:
+
+Theory of Mind AI aims to develop machines that can understand and attribute mental states to themselves and others. This type of AI involves perceiving emotions, intentions, beliefs, and desires of other entities to interact and make informed decisions. Theory of Mind AI has potential applications in social robotics and human-computer interaction.
+
+Self-Aware AI:
+
+Self-Aware AI represents machines that have consciousness and a sense of their own existence. While this concept is more theoretical, researchers explore the possibility of developing AI systems with self-awareness. Self-Aware AI raises profound philosophical questions and could have implications for the future of AI and ethics.
+
+Narrow AI:
+
+Narrow AI, also known as weak AI, focuses on performing specific tasks or solving specific problems. These AI systems excel in a particular domain, such as image recognition or natural language processing. Examples of Narrow AI include voice assistants like Siri and Alexa, as well as recommendation algorithms.
+
+General AI:
+
+General AI, also referred to as strong AI, aims to replicate human-level intelligence across various domains. These AI systems possess the ability to understand, learn, and apply knowledge in diverse situations. General AI is still an area of ongoing research and represents the pinnacle of AI development.
+
+Superintelligent AI:
+
+Superintelligent AI refers to AI systems that surpass human intelligence in nearly all aspects. These hypothetical systems possess advanced cognitive abilities and can outperform humans in intellectual tasks. Superintelligent AI is a topic of speculation and raises important questions regarding its impact on society.[12]
+History
+
+AI research really started with a conference at Dartmouth College in 1956. It was a month-long brainstorming session attended by many people with interests in AI. At the conference they wrote programs that were amazing at the time, beating people at checkers or solving word problems. The Department of Defense started giving a lot of money to AI research and labs were created all over the world.
+
+Unfortunately, researchers seriously undervalued how challenging several issues were. They still couldn't offer computers things like emotions or common sense using the techniques they had employed. In a paper on AI, mathematician James Lighthill stated that "no aspect of the discipline has so far seen discoveries generated the huge influence that was previously anticipated." The governments of the US and UK desired to support more profitable initiatives. A "AI winter" in which little research was conducted was brought on by cuts
+
+AI revived again in the 90s and early 2000s with its use in data mining and medical diagnosis. This was possible because of faster computers and focusing on solving more specific problems. In 1997, Deep Blue became the first computer program to beat chess world champion Garry Kasparov. Faster computers, advances in deep learning, and access to more data have made AI popular throughout the world.[13] In 2011 IBM Watson beat the top two Jeopardy! players Brad Rutter and Ken Jennings, and in 2016 Google's AlphaGo beat top Go player Lee Sedol 4 out of 5 times.
+Related pages
+
+    Artificial neural network
+    Neural networks
+    Expert systems
+    Machine learning
+
+References
+
+"Andreas Kaplan, Artificial Intelligence, Business and Civilization: Our Fate Made in Machines, Routledge, 2022".
+Russell, Stuart J. & Norvig, Peter 2003. Artificial intelligence: a modern approach. 2nd ed, Upper Saddle River, New Jersey: Prentice Hall. ISBN 0-13-790395-2
+Kaplan, Andreas; Haenlein, Michael (January 2019). "Siri, Siri, in my hand: Who's the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence". Business Horizons. 62 (1): 15–25. doi:10.1016/j.bushor.2018.08.004. S2CID 158433736.
+Hutter, Marcus 2005. Universal artificial intelligence. Berlin: Springer. ISBN 978-3-540-22139-5
+Nilsson, Nils 1998. Artificial intelligence: a new synthesis. Morgan Kaufmann. ISBN 978-1-55860-467-4
+"Stephen Hawking believes AI could be mankind's last accomplishment". BetaNews. 21 October 2016.
+Kurzweil, Ray 1999. The age of spiritual machines. Penguin Books. ISBN 0-670-88217-8.
+Kurzweil, Ray 2005. The singularity is near. Viking Press
+"Artificial Intelligence: More Than a Natural Intelligence?". 16 November 2019.
+knowledgecafe0.blogspot.com https://knowledgecafe0.blogspot.com/2023/06/what-is-ai-and-how-it-work.html. Retrieved 2023-06-17. {{cite web}}: Missing or empty |title= (help)
+cafe, knowledge (6/17/2023). "WHAT IS AI AND HOW IT WORK". knowledgecafé. Retrieved 6/17/2023. {{cite web}}: Check date values in: |access-date= and |date= (help)
+vyas, Dilraj (2023-06-09). "Artificial intelligence - techbuzzblog". Retrieved 2023-06-09.
+
+    Kaplan, Andreas; Haenlein, Michael (2020). "Rulers of the world, unite! The challenges and opportunities of artificial intelligence". Business Horizons. 63: 37–50. doi:10.1016/j.bushor.2019.09.003. S2CID 211456730.
+
+Authority control: National Edit this at Wikidata	
+
+    Spain France BnF data Germany Israel United States Latvia Japan Czech Republic
+
+Category:
+
+    Artificial intelligence
+
+    This page was last changed on 17 June 2023, at 15:55.
+    Text is available under the Creative Commons Attribution/Share-Alike License and the GFDL; additional terms may apply. See Terms of Use for details.
+
+    Privacy policy
+    About Wikipedia
+    Disclaimers
+    Code of Conduct
+    Mobile view
+    Developers
+    Statistics
+    Cookie statement
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
