@@ -18,14 +18,14 @@
   A corpus is the most critical and basic building block of any NLP related application. It provides us with quantitative data that is used to build NLP applications.<br>
   In this model, data.txt file is read in which text is store from which Chatbot will learn and give responses to user.
   
- **3. Tokenization, Stemming, Lemmatization** <br>
+ **3. Performing Tokenization, Stemming, Lemmatization** <br>
 
   **Tokenization** : Raw text data is converted into numerical form with the help of tokenization. <br>
   **Stemming** : Stemming is the process of finding similarities between words with the same root words. <br>
   **Lemmatization** : Lemmatization refers to returning the base word. <br>
   All these steps are performed on data.
   
-**4. Preprocessing (Stopwords, Removal, Lower case conversion etc)** <br>
+**4. Preprocessing (Stopwords, Removal, Lower case conversion etc) step** <br>
 
   **Stopwords** : Stop words are a set of commonly used words in any language. For example, in English, “the”, “is” and “and”, would easily qualify as stop words. In NLP and       text mining applications, stop words are used to eliminate unimportant words, allowing applications to focus on the important words instead. <br>
 
